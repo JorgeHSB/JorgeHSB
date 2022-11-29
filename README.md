@@ -2,7 +2,7 @@
 
 # Bio
 
-Sou apenas um estudante, tentando adentrar na área DEV. Não possuo experiência, mas tenho uma grande vontade de aprender e cá estou postando os meus primeiros projetos com o intuito de melhorar cada vez mais. No momento apenas sei o básico, mas já estou trabalhando para ir para o avançado! 
+Sou estudante, tentando adentrar na área DEV. Não possuo experiência, mas tenho uma grande vontade de aprender e cá estou postando os meus primeiros projetos com o intuito de melhorar cada vez mais. No momento apenas sei o básico, mas já estou trabalhando para ir para o avançado! 
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
